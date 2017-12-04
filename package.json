@@ -1,5 +1,5 @@
 {
-  "name": "budget-tracker-server",
+  "name": "expense-tracker-server",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -27,12 +27,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/erdemkoral/budget-tracker-server.git"
+    "url": "git+https://github.com/erdemkoral/expense-tracker-server.git"
   },
   "author": "Erdem Koral",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/erdemkoral/budget-tracker-server/issues"
+    "url": "https://github.com/erdemkoral/expense-tracker-server/issues"
   },
-  "homepage": "https://github.com/erdemkoral/budget-tracker-server#readme"
+  "homepage": "https://github.com/erdemkoral/expense-tracker-server#readme"
 }
